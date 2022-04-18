@@ -7,11 +7,11 @@
     <url>https://github.com/assecopl/fh</url>
     <name>fhCoreLite</name>
     <description>FH Framework Lite</description>
-    <version>0.00.000</version>
+    <version>0.00.RC0</version>
     <parent>
         <groupId>pl.fhframework</groupId>
         <artifactId>fh-compile-bom</artifactId>
-        <version>0.00.000</version>
+        <version>0.00.RC0</version>
         <relativePath>../bom-project-lite/fh-compile-bom</relativePath>
     </parent>
     <modules>
